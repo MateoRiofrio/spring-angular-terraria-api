@@ -2,15 +2,7 @@ import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 @Component({
   selector: 'app-root',
-  template: `
-    <!--The content below is only a placeholder and can be replaced.-->
-    <div class="container">
-      <h1> {{title}} </h1>
-      <app-widget-search-bar></app-widget-search-bar>
-      <p>{{weapon}}</p>
-    </div>
-    <router-outlet></router-outlet>
-  `,
+  templateUrl: 'app.component.html',
   styles: []
 })
 export class AppComponent {

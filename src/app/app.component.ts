@@ -7,9 +7,8 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AppComponent {
   title = 'Terraria API';
-  weapon = {}
   constructor(private http: HttpClient) {
-    http.get('api/weapons/copper_shortsword').subscribe(data => this.weapon = data)
+
   }
 
 }

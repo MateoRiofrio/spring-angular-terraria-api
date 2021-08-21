@@ -31,8 +31,14 @@ class WeaponsController(private val weaponRepository: WeaponRepository) {
     }
     // Get a weapon by name
     @GetMapping("/{name}")
-    fun getByItemName(@PathVariable name: String): ResponseEntity<Weapon> {
+    fun getByItemName(@PathVariable name: String): ResponseEntity<List<Weapon>> {
         return ResponseEntity.ok(weaponRepository.findByItemName(name))
+    }
+
+    // Get a weapon from a LIKE query (must provide 'like' parameter)
+    @GetMapping("item_name")
+    fun getItemByLike(@RequestParam(required = true, value = "like") like: String): ResponseEntity<List<Weapon>> {
+        return ResponseEntity.ok(weaponRepository.findByItemNameStartsWith(like))
     }
 
 }

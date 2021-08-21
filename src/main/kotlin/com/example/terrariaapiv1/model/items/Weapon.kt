@@ -34,7 +34,7 @@ class Weapon(
     @Column(name="sell")
     val sell: Int? = -1,
     @Column(name="research")
-    val research: String? = null,
+    val research: Int? = null,
     @Column(name="item_img_url")
     val itemImgUrl: String? = null
 )

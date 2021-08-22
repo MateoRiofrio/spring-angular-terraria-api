@@ -1,0 +1,25 @@
+<div class="container mt-3">
+    <h3>Item Details:</h3>
+
+    <div *ngIf="weapon">
+        <table class="table">
+            <thead>
+            <!-- loop through keys of the weapon and generate a header for each -->
+            <tr>
+                <th *ngFor="let header of generateHeaders(weapon)">
+                    <p>{{header}}</p>
+                </th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <!-- loop through values of the weapon and generate data for each -->
+                <td *ngFor="let data of generateData(weapon)">
+                    <p>{{data}}</p>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>

@@ -1,5 +1,15 @@
 <form class="form-inline waves-light">
     <div class="md-form mt-0">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search">
+        <!-- TIL: (keydown) will be one character behind input (i.e. $event will first give you an empty string) -->
+        <input  class="form-control mr-sm-2" type="text" placeholder="Search" (focusin)= "showList = true" (keyup)="showStartsWithResults($event) ">
     </div>
 </form>
+
+<div *ngIf="showList" class="items overflow-auto mt-1">
+        <a *ngFor="let item of searchResults" (click)="showList = false" [title]="item.itemName" [routerLink]="['/weapons', item.id]">
+            <button class="list-group-item list-group-item-action pt-3 pb-3">
+                <!-- parseName removes underscores -->
+                {{parseName(item.itemName)}}
+            </button>
+        </a>
+</div>

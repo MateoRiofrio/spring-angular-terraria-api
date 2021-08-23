@@ -23,7 +23,7 @@ class Weapon(
     val useTime: Int? = -1,
     @Column(name="velocity")
     val velocity: Double? = 0.0,
-    @Column(name="toolip")
+    @Column(name="tooltip")
     val toolip: String? = null,
     @Column(name="max_stack")
     val maxStack: Int? = 1,
@@ -35,6 +35,4 @@ class Weapon(
     val sell: Int? = -1,
     @Column(name="research")
     val research: Int? = null,
-    @Column(name="item_img_url")
-    val itemImgUrl: String? = null
 )

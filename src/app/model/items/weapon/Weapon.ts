@@ -14,5 +14,4 @@ export interface Weapon {
     buy: number
     sell: number
     research: number
-    itemImgUrl: string
 }

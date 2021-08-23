@@ -6,8 +6,7 @@ import {WidgetSearchBarComponent} from './search/widget-search-bar/widget-search
 import {HttpClientModule} from '@angular/common/http';
 import {SearchService} from "./search/search.service";
 import {CommonModule} from '@angular/common';
-import {MatListModule} from '@angular/material/list';
-import { WeaponDetailsComponent } from './model/items/weapon/weapon-details/weapon-details.component';
+import {WeaponDetailsComponent} from './model/items/weapon/weapon-details/weapon-details.component';
 import {RouterModule} from "@angular/router";
 
 
@@ -22,9 +21,8 @@ import {RouterModule} from "@angular/router";
         AppRoutingModule,
         HttpClientModule,
         CommonModule,
-        MatListModule,
         RouterModule.forRoot([
-            { path: 'weapons/:id', component: WeaponDetailsComponent },
+            {path: 'weapons/:id', component: WeaponDetailsComponent},
         ])
     ],
     providers: [SearchService],

@@ -3,7 +3,7 @@
 ## Description:
 In this project, I built a web application that uses *Spring* to build backend features 
 and *Angular* to build the frontend. Both tools are very popular and together
-form a powerful stack that allows for sta and flexibility. In this case, the main role of the backend is to provide
+form a powerful stack that allows for scalability and flexibility. In this case, the main role of the backend is to provide
 a way of interacting with JavaScript through HTTP and JSON. Angular and Spring are built as a single application, so npm
 is installed as part of the build. If you would like to run this project on your machine check out the set-up section!
 ## Usage

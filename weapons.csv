@@ -1,0 +1,423 @@
+id,item_name,uses_ammo,damage,knockback,consumable,critical_chance,use_time,velocity,tooltip,max_stack,rarity,buy,sell,research
+1,Copper_Shortsword,,5 ,4.0,0,0.04,13 ,4.2,,1,White,-1,70,1
+2,Tin_Shortsword,,7 ,4.0,0,0.04,12 ,4.2,,1,White,-1,1,1
+3,Wooden_Sword,,7 ,4.0,0,0.04,25 ,0.0,,1,White,-1,20,1
+4,Boreal_Wood_Sword,,8 ,5.0,0,0.04,23 ,0.0,,1,White,-1,20,1
+5,Copper_Broadsword,,8 ,5.0,0,0.04,23 ,0.0,,1,White,-1,90,1
+6,Iron_Shortsword,,8 ,4.0,0,0.04,12 ,4.2,,1,White,-1,2,1
+7,Palm_Wood_Sword,,8 ,5.0,0,0.04,23 ,0.0,,1,White,-1,20,1
+8,Rich_Mahogany_Sword,,8 ,5.0,0,0.04,23 ,0.0,,1,White,-1,20,1
+9,Cactus_Sword,,8 ,4.5,0,0.04,32 ,0.0,,1,White,-1,3,1
+10,Lead_Shortsword,,9 ,4.0,0,0.04,12 ,4.2,,1,White,-1,4,1
+11,Silver_Shortsword,,9 ,4.0,0,0.04,12 ,4.2,,1,White,-1,7,1
+12,Tin_Broadsword,,9 ,5.0,0,0.04,22 ,0.0,,1,White,-1,1,1
+13,Ebonwood_Sword,,10 ,5.0,0,0.04,21 ,0.0,,1,White,-1,20,1
+14,Iron_Broadsword,,10 ,5.0,0,0.04,21 ,0.0,,1,White,-1,3,1
+15,Shadewood_Sword,,10 ,5.0,0,0.04,21 ,0.0,,1,White,-1,20,1
+16,Tungsten_Shortsword,,10 ,4.0,0,0.04,11 ,4.2,,1,White,-1,10,1
+17,Gold_Shortsword,,12 ,5.0,0,0.04,11 ,4.2,,1,White,-1,14,1
+18,Lead_Broadsword,,11 ,5.0,0,0.04,21 ,0.0,,1,White,-1,5,1
+19,Silver_Broadsword,,11 ,5.0,0,0.04,21 ,0.0,,1,White,-1,9,1
+20,Bladed_Glove,,12 ,4.0,0,0.04,8 ,0.0,,1,Green,-1,1,1,True
+21,Tungsten_Broadsword,,12 ,5.0,0,0.04,20 ,0.0,,1,White,-1,13,1
+22,Zombie_Arm,,12 ,4.25,0,0.04,23 ,0.0,,1,White,-1,4,1
+23,Gold_Broadsword,,13 ,5.0,0,0.04,20 ,0.0,,1,White,-1,18,1
+24,Platinum_Shortsword,,13 ,5.0,0,0.04,10 ,4.2,,1,White,-1,21,1
+25,Mandible_Blade,,14 ,4.5,0,0.04,18 ,0.0,,1,Green,-1,10,1,True
+26,Stylish_Scissors,,14 ,5.0,0,0.04,12 ,0.0,,1,Green,-1,50,1
+27,Ruler,,12 ,0.5,0,0.04,20 ,4.8,,1,Blue,10,2,1,True
+28,Platinum_Broadsword,,15 ,5.0,0,0.04,19 ,0.0,,1,White,-1,27,1
+29,Umbrella,,10 ,5.0,0,0.04,22 ,0.0,You will fall slower while holding this,1,Blue,-1,20,1
+30,Breathing_Reed,,10 ,4.0,0,0.04,27 ,0.0,Increases breath time and allows breathing in water,1,Blue,-1,20,1
+31,Gladius,,15 ,0.5,0,0.04,21 ,4.8,'Are you not entertained?!',1,Blue,-1,30,1
+32,Bone_Sword,,16 ,4.5,0,0.04,22 ,0.0,,1,Orange,-1,18,1
+33,Candy_Cane_Sword,,16 ,5.3,0,0.04,27 ,0.0,,1,Blue,-1,27,1
+34,Katana,,16 ,3.5,0,0.19,22 ,0.0,,1,Blue,10,2,1,True
+35,Ice_Blade,,17 ,4.75,0,0.06,20 ,9.5,Shoots an icy bolt,1,Blue,-1,40,1,True
+36,Light%27s_Bane,,18 ,5.0,0,0.04,20 ,0.0,,1,Blue,-1,27,1
+37,Tragic_Umbrella,,15 ,5.0,0,0.04,22 ,0.0,You will fall slower while holding this,1,Green,10,2,1
+38,Muramasa,,26 ,3.0,0,0.04,18 ,0.0,,1,Green,-1,1,1,True
+39,Exotic_Scimitar,,20 ,4.25,0,0.04,18 ,0.0,,1,Green,-1,50,1
+40,Phaseblade,,25 ,3.0,0,0.04,25 ,0.0,,1,Blue,-1,54,1
+41,Blood_Butcherer,,22 ,5.0,0,0.04,25 ,0.0,,1,Blue,-1,27,1
+42,Starfury,,22 ,5.0,0,0.04,20 ,20,Causes stars to rain from the sky,1,Green,-1,1,1
+43,Enchanted_Sword_(item),,23 ,4.25,0,0.04,21 ,9.5,Shoots an enchanted sword beam,1,Green,-1,3,1,True
+44,Purple_Clubberfish,,24 ,7.0,0,0.04,35 ,0.0,,1,Blue,-1,1,1,True
+45,Bee_Keeper,,26 ,5.3,0,0.04,20 ,0.0,Summons killer bees after striking your foe,1,Orange,-1,2,1,True
+46,Falcon_Blade,,25 ,6.0,0,0.04,20 ,0.0,,1,Light Red,-1,20,1,True
+47,Blade_of_Grass,,28 ,3.0,0,0.04,30 ,0.0,Has a chance to poison enemies,1,Orange,-1,54,1
+48,Fiery_Greatsword,,40 ,6.5,0,0.04,30 ,0.0,'It's made out of fire!',1,Orange,-1,54,1
+49,Night%27s_Edge,,42 ,4.5,0,0.04,21 ,0.0,,1,Orange,-1,4,1,True
+50,Pearlwood_Sword,,11 ,5.0,0,0.04,21 ,0.0,,1,White,-1,20,1
+51,Classy_Cane,,16 ,3.5,0,0.04,15 ,0.0,,1,Green,-1,50,1
+52,Slap_Hand,,35 ,20.0,0,0.19,21 ,0.0,,1,Light Red,25,5,1,True
+53,Cobalt_Sword,,39 ,3.85,0,0.04,23 ,0.0,,1,Light Red,-1,1,1,True
+54,Palladium_Sword,,45 ,4.75,0,0.04,25 ,0.0,,1,Light Red,-1,1,1,True
+55,Phasesaber,,42 ,3.0,0,0.04,20 ,0.0,,1,Light Red,-1,1,1,True
+56,Ice_Sickle,,42 ,5.5,0,0.04,25 ,8,Shoots an icy sickle,1,Pink,-1,5,1
+57,Brand_of_the_Inferno,,85 ,6.5,0,0.04,20 ,0.0,Right click to guard with a shield,1,Pink,-1,1,1,True
+58,Mythril_Sword,,49 ,6.0,0,0.04,26 ,0.0,,1,Light Red,-1,2,1,True
+59,Orichalcum_Sword,,50 ,6.0,0,0.04,25 ,0.0,,1,Light Red,-1,2,1,True
+60,Breaker_Blade,,43 ,8.0,0,0.04,29 ,0.0,Deals more damage to unhurt enemies,1,Light Red,-1,3,1
+61,Cutlass,,49 ,4.0,0,0.04,18 ,0.0,,1,Light Red,-1,3,1,True
+62,Frostbrand,,49 ,4.5,0,0.04,23 ,12,Shoots an icy bolt,1,Pink,-1,5,1,True
+63,Adamantite_Sword,,56 ,6.0,0,0.04,26 ,0.0,,1,Light Red,-1,2,1,True
+64,Beam_Sword,,52 ,6.5,0,0.04,20 ,11,Shoots a beam of light,1,Light Red,-1,3,1
+65,Titanium_Sword,,58 ,6.0,0,0.04,25 ,0.0,,1,Light Red,-1,3,1,True
+66,Fetid_Baghnakhs,,60 ,6.0,0,0.04,8 ,0.0,,1,Pink,-1,8,1,True
+67,Bladetongue,,55 ,5.75,0,0.04,28 ,0.0,Spits an Ichor stream on contact,1,Pink,-1,4,1,True
+68,Tizona,,55 ,5.0,0,0.04,25 ,0.0,Has a chance to cause Bleeding,1,Pink,-1,6,-1,True
+69,Excalibur,,66 ,4.5,0,0.04,20 ,0.0,,1,Pink,-1,4,1,True
+70,True_Excalibur,,70 ,4.5,0,0.04,16 ,11,,1,Yellow,-1,10,1,True
+71,Chlorophyte_Saber,,57 ,4.0,0,0.04,16 ,8,Shoots a spore cloud,1,Lime,-1,5,1,True
+72,Death_Sickle,,57 ,7.0,0,0.04,25 ,9,Shoots a deathly sickle,1,Light Purple,-1,7,1,True
+73,Psycho_Knife,,85 ,3.5,0,0.04,8 ,0.0,Allows you to go into stealth mode,1,Yellow,-1,10,1,True
+74,Keybrand,,85 ,6.5,0,0.17,20 ,0.0,Deals more damage to injured foes,1,Yellow,-1,4,1,True
+75,Chlorophyte_Claymore,,95 ,6.0,0,0.04,26 ,8,Shoots a powerful orb,1,Lime,-1,5,1
+76,The_Horseman%27s_Blade,,75 ,7.5,0,0.04,26 ,0.0,Summons Pumpkin heads to attack your enemies,1,Yellow,-1,10,1,True
+77,Christmas_Tree_Sword,,86 ,7.0,0,0.04,23 ,5,Shoots Christmas ornaments,1,Yellow,-1,10,1,True
+78,True_Night%27s_Edge,,105 ,4.75,0,0.04,26 ,10,,1,Yellow,-1,10,1,True
+79,Seedler,,50 ,6.0,0,0.04,23 ,12,,1,Pink,-1,10,1,True
+80,Flying_Dragon,,180 ,5.5,0,0.04,25 ,17,Unleashes the heart's energy forward,1,Yellow,-1,5,1,True
+81,Starlight,,80 ,4.0,0,0.14,18 ,15,,1,Yellow,-1,5,1,True
+82,Terra_Blade,,115 ,6.5,0,0.04,14 ,12,,1,Yellow,-1,20,1,True
+83,Influx_Waver,,110 ,4.5,0,0.04,20 ,11,,1,Yellow,-1,10,1,True
+84,Star_Wrath,,110 ,6.5,0,0.04,16 ,16,Causes stars to rain from the sky,1,Cyan,-1,20,1,True
+85,Meowmere,,200 ,6.5,0,0.04,16 ,12,,1,Red,-1,20,1,True
+86,Wooden_Yoyo,,9 ,2.5,0,0.04,25 ,16,,1,White,-1,1,1
+87,Rally,,14 ,3.5,0,0.04,25 ,16,,1,Blue,-1,50,1
+88,Malaise,,16 ,4.5,0,0.04,25 ,16,,1,Blue,-1,1,1
+89,Artery,,17 ,4.0,0,0.04,25 ,16,,1,Blue,-1,1,1
+90,Amazon,,18 ,3.75,0,0.04,25 ,16,,1,Orange,-1,1,1
+91,Code_1,,21 ,3.25,0,0.04,25 ,16,,1,Green,5,1,1
+92,Valor,,22 ,3.85,0,0.04,25 ,16,,1,Orange,-1,1,1
+93,Cascade,,27 ,4.3,0,0.04,25 ,16,,1,Orange,-1,1,1
+94,Format:C,,39 ,3.25,0,0.04,25 ,16,,1,Orange,20,4,1
+95,Gradient,,49 ,3.8,0,0.04,25 ,16,,1,Orange,20,4,1
+96,Chik,,39 ,3.3,0,0.04,25 ,16,,1,Light Red,-1,4,1
+97,Hel-Fire,,41 ,4.5,0,0.04,25 ,16,,1,Light Red,-1,4,1
+98,Amarok,,43 ,2.8,0,0.04,25 ,16,,1,Light Red,-1,4,1
+99,Code_2,,54 ,3.8,0,0.04,25 ,16,,1,Pink,25,5,1
+100,Yelets,,60 ,3.1,0,0.04,25 ,16,,1,Lime,-1,5,1
+101,Red%27s_Throw,,70 ,4.5,0,0.04,25 ,16,'Great for impersonating devs!',1,Cyan,-1,4,1
+102,Valkyrie_Yoyo,,70 ,4.5,0,0.04,25 ,16,'Great for impersonating devs!',1,Cyan,-1,4,1
+103,Kraken,,95 ,4.3,0,0.14,25 ,16,,1,Yellow,-1,11,1
+104,The_Eye_of_Cthulhu,,115 ,3.5,0,0.04,25 ,16,,1,Yellow,-1,12,1
+105,Terrarian,,190 ,6.5,0,0.14,25 ,16,,1,Red,-1,10,1
+106,Spear,,8 ,6.5,0,0.04,31 ,3.7,,1,White,-1,2,1
+107,Trident,,14 ,6.0,0,0.04,31 ,4,Increases mobility in water when held,1,Blue,-1,20,1
+108,Storm_Spear,,12 ,6.0,0,0.04,28 ,3.5,,1,Blue,-1,30,1
+109,The_Rotted_Fork,,14 ,5.0,0,0.04,31 ,4,,1,Blue,-1,1,1
+110,Swordfish,,19 ,4.25,0,0.04,20 ,4,,1,Green,-1,50,1
+111,Dark_Lance,,29 ,5.0,0,0.04,22 ,6,,1,Orange,-1,2,1
+112,Cobalt_Naginata,,29 ,4.0,0,0.04,28 ,4.3,,1,Light Red,-1,90,1
+113,Palladium_Pike,,32 ,4.5,0,0.04,27 ,4.4,,1,Light Red,-1,1,1
+114,Mythril_Halberd,,35 ,5.0,0,0.04,26 ,4.5,,1,Light Red,-1,1,1
+115,Orichalcum_Halberd,,36 ,5.5,0,0.04,25 ,4.5,,1,Light Red,-1,1,1
+116,Adamantite_Glaive,,38 ,6.0,0,0.04,25 ,5,,1,Light Red,-1,1,1
+117,Titanium_Trident,,40 ,6.2,0,0.04,23 ,5,,1,Light Red,-1,2,1
+118,Gungnir,,42 ,6.4,0,0.04,22 ,5.6,,1,Pink,-1,4,1
+119,Ghastly_Glaive,,45 ,7.0,0,0.04,27 ,42,Summons ghosts as it hits enemies,1,Pink,-1,1,1
+120,Chlorophyte_Partisan,,49 ,6.2,0,0.04,23 ,5,Shoots a spore cloud,1,Lime,-1,3,1
+121,Tonbogiri,,50 ,6.5,0,0.04,15 ,5.6,A legendary Japanese spear coated in venom,1,Pink,-1,40,-1
+122,Mushroom_Spear,,60 ,6.2,0,0.04,40 ,5.5,,1,Lime,70,14,1
+123,Obsidian_Swordfish,,70 ,6.5,0,0.24,20 ,4,,1,Lime,-1,1,1
+124,North_Pole,,73 ,6.7,0,0.04,25 ,4.75,Shoots an icy spear that rains snowflakes,1,Lime,-1,9,1
+125,Wooden_Boomerang,,8 ,5.0,0,0.04,16 ,6.5,,1,White,-1,10,1
+126,Enchanted_Boomerang,,13 ,8.0,0,0.04,15 ,10,,1,Blue,-1,1,1
+127,Fruitcake_Chakram,,14 ,8.0,0,0.04,15 ,11,,1,Blue,-1,1,1
+128,Bloody_Machete,,15 ,5.0,0,0.04,15 ,15,,1,Green,-1,1,1
+129,Shroomerang,,14 ,7.0,0,0.04,15 ,10.5,,1,Blue,-1,60,1
+130,Ice_Boomerang,,16 ,8.5,0,0.06,15 ,11.5,,1,Blue,-1,1,1
+131,Thorn_Chakram,,25 ,8.0,0,0.04,15 ,14,,1,Orange,-1,1,1
+132,Combat_Wrench,,25 ,3.5,0,0.04,15 ,17,"'For fixing things, and breaking them'",1,Green,-1,50,1
+133,Flamarang,,32 ,8.0,0,0.04,15 ,14,,1,Orange,-1,2,1
+134,Flying_Knife,,40 ,4.5,0,0.04,15 ,17,Throws a controllable flying knife,1,Light Purple,-1,8,1
+135,Sergeant_United_Shield,,80 ,0.0,0,0.04,36 ,20,'I can do this all day',1,Pink,35,7,1
+136,Light_Disc,,57 ,8.0,0,0.04,15 ,13,Stacks up to 5,5,Pink,-1,6,1,True
+137,Bananarang,,55 ,6.5,0,0.04,11 ,16,,10,Pink,-1,1,1,True
+138,Possessed_Hatchet,,80 ,5.0,0,0.04,14 ,24,Chases after your enemy,1,Lime,-1,7,1,True
+139,Paladin%27s_Hammer,,90 ,9.0,0,0.04,15 ,42,A powerful returning hammer,1,Yellow,-1,10,1
+140,Chain_Knife,,12 ,3.5,0,0.04,20 ,12,,1,Blue,-1,25,1
+141,Mace,,18 ,4.6,0,0.04,45 ,11,Can be upgraded with torches,1,Blue,-1,2,1
+142,Flaming_Mace,,18 ,4.6,0,0.04,45 ,11,'May the fire light your way',1,Blue,-1,2,1
+143,Ball_O%27_Hurt,,30 ,5.5,0,0.04,45 ,12,,1,Blue,-1,1,1
+144,The_Meatball,,34 ,5.5,0,0.04,45 ,12,,1,Blue,-1,54,1
+145,Blue_Moon,,54 ,6.0,0,0.04,45 ,12,,1,Green,-1,1,1
+146,Sunfury,,64 ,6.75,0,0.11,45 ,12,,1,Orange,-1,2,1
+147,Anchor,,70 ,8.0,0,0.04,20 ,20,,1,Orange,-1,1,1
+148,KO_Cannon,,40 ,6.5,0,0.04,28 ,15,Shoots a boxing glove,1,Light Red,-1,3,1,True
+149,Drippler_Crippler,,110 ,6.5,0,0.04,40 ,15.9,,1,Light Red,-1,4,1
+150,Chain_Guillotines,,59 ,3.25,0,0.04,14 ,14,,1,Pink,-1,8,1,True
+151,Dao_of_Pow,,100 ,6.0,0,0.04,45 ,15,Has a chance to confuse,1,Pink,-1,2,1
+152,Flower_Pow,,130 ,6.5,0,0.04,40 ,15.9,Shoots razor sharp flower petals at nearby enemies,1,Lime,-1,6,1
+153,Golem_Fist,,90 ,12.0,0,0.04,24 ,28,Punches with the force of a golem,1,Lime,-1,7,1,True
+154,Flairon,,66 ,4.5,0,0.04,20 ,14,Spews homing bubbles,1,Yellow,-1,5,1,True
+155,Terragrim,,17 ,3.0,0,0.04,25 ,15,Unleashes a dicing flurry,1,Green,-1,5,1
+156,Arkhalis,,25 ,4.0,0,0.04,25 ,15,'I didn't get this off of a Schmoo',1,Cyan,-1,5,1
+157,Arkhalis,,25 ,4.0,0,0.04,25 ,15,'I didn't get this off of a Schmoo',1,Cyan,-1,5,1
+158,Jousting_Lance,,56 ,12.0,0,0.04,24 ,3.5,Build momentum to increase attack power,1,Light Red,6,1,1
+159,Shadowflame_Knife,,38 ,5.75,0,0.07,12 ,13,Inflicts Shadowflame on hit,1,Pink,-1,2,1,True
+160,Hallowed_Jousting_Lance,,78 ,13.0,0,0.04,24 ,3.5,Build momentum to increase attack power,1,Pink,-1,4,1
+161,Sleepy_Octopod,,50 ,7.0,0,0.04,30 ,24,Charges power as it is swung to smash enemies,1,Pink,-1,1,1,True
+162,Scourge_of_the_Corruptor,,70 ,5.0,0,0.04,20 ,28,A powerful javelin that unleashes tiny eaters,1,Yellow,-1,20,1,True
+163,Shadow_Jousting_Lance,,108 ,14.0,0,0.04,24 ,3.5,Build momentum to increase attack power,1,Yellow,-1,10,1
+164,Vampire_Knives,,29 ,2.75,0,0.04,16 ,15,Rapidly throw life stealing daggers,1,Yellow,-1,20,1,True
+165,Sky_Dragon%27s_Fury,,140 ,5.0,0,0.04,30 ,24,Right click while holding for an alternate attack!,1,Yellow,-1,5,1,True
+166,Daybreak,,150 ,5.0,0,0.04,16 ,20,'Rend your foes asunder with a spear of light!',1,Red,-1,10,1,True
+167,Solar_Eruption,,105 ,2.0,0,0.04,20 ,24,'Strike with the fury of the sun',1,Red,-1,10,1,True
+168,Zenith,,190 ,6.5,0,0.14,30 ,32,,1,Red,-1,20,1,True
+169,Paper_Airplane,,4 ,2.0,1,0.04,17 ,5,,999,White,-1,10,1
+170,White_Paper_Airplane,,4 ,2.0,1,0.04,17 ,5,,999,White,-1,10,1
+171,Shuriken,,10 ,0.0,1,0.04,15 ,9,,999,White,15,3,99
+172,Throwing_Knife,,12 ,2.0,1,0.04,15 ,10,,999,White,50,10,99
+173,Poisoned_Knife,,14 ,2.4,1,0.08,15 ,12,,999,White,-1,12,99,True
+174,Snowball,,8 ,5.75,0,0.0,19 ,7,,999,White,-1,-1,99
+175,Ale_Tosser,Ale,20 ,7.0,0,0.04,40 ,6.5,,1,Blue,-1,1,1
+176,Spiky_Ball,,15 ,1.0,1,0.04,15 ,5,,999,White,80,16,99
+177,Bone,,20 ,2.3,1,0.04,12 ,8,,999,White,-1,10,99
+178,Rotten_Egg,,13 ,6.5,1,0.04,19 ,9,Best used for pranking townsfolk,999,White,-1,-1,99
+179,Star_Anise,,14 ,0.0,1,0.04,15 ,12,,999,White,-1,5,99
+180,Molotov_Cocktail,,23 ,7.0,1,0.04,40 ,6.5,A small explosion that puts enemies on fire,99,Blue,-1,1,99
+181,Frost_Daggerfish,,17 ,3.5,1,0.04,13 ,12.5,,999,Blue,-1,16,99
+182,Javelin,,17 ,4.75,1,0.04,24 ,11.5,,999,White,-1,5,99
+183,Bone_Javelin,,20 ,5.0,1,0.04,25 ,10,,999,Blue,-1,10,99,True
+184,Bone_Throwing_Knife,,14 ,1.5,1,0.04,14 ,10,,999,Blue,-1,10,99,True
+185,Grenade,,60 ,8.0,1,0.04,45 ,5.5,A small explosion that will not destroy tiles,99,White,75,15,99
+186,Sticky_Grenade,,60 ,8.0,1,0.04,45 ,5.5,A small explosion that will not destroy tiles,99,White,-1,15,99
+187,Bouncy_Grenade,,65 ,8.0,1,0.04,40 ,6.5,A small explosion that will not destroy tiles,99,White,-1,20,99
+188,Beenade,,12 ,1.0,1,0.04,15 ,6,Explodes into a swarm of bees,999,White,-1,40,99
+189,Happy_Grenade,,30 ,6.0,1,0.04,20 ,6,A small explosion that will not destroy tiles,99,Green,2,50,99
+190,Wooden_Bow,Arrows,4 ,0.0,0,0.04,30 ,6.1,,1,White,-1,20,1
+191,Boreal_Wood_Bow,Arrows,6 ,0.0,0,0.04,29 ,6.6,,1,White,-1,20,1
+192,Copper_Bow,Arrows,6 ,0.0,0,0.04,29 ,6.6,,1,White,-1,70,1
+193,Palm_Wood_Bow,Arrows,6 ,0.0,0,0.04,29 ,6.6,,1,White,-1,20,1
+194,Rich_Mahogany_Bow,Arrows,6 ,0.0,0,0.04,29 ,6.6,,1,White,-1,20,1
+195,Tin_Bow,Arrows,7 ,0.0,0,0.04,28 ,6.6,,1,White,-1,1,1
+196,Ebonwood_Bow,Arrows,8 ,0.0,0,0.04,28 ,6.6,,1,White,-1,20,1
+197,Iron_Bow,Arrows,8 ,0.0,0,0.04,28 ,6.6,,1,White,-1,2,1
+198,Shadewood_Bow,Arrows,8 ,0.0,0,0.04,28 ,6.6,,1,White,-1,20,1
+199,Lead_Bow,Arrows,9 ,0.0,0,0.04,27 ,6.6,,1,White,-1,4,1
+200,Silver_Bow,Arrows,9 ,0.0,0,0.04,27 ,6.6,,1,White,-1,7,1
+201,Tungsten_Bow,Arrows,10 ,0.0,0,0.04,26 ,6.6,,1,White,-1,10,1
+202,Gold_Bow,Arrows,11 ,0.0,0,0.04,26 ,6.6,,1,White,-1,14,1
+203,Platinum_Bow,Arrows,13 ,0.0,0,0.04,25 ,6.6,,1,White,-1,21,1
+204,Demon_Bow,Arrows,14 ,1.0,0,0.04,25 ,6.7,,1,Blue,-1,36,1
+205,Tendon_Bow,Arrows,19 ,1.0,0,0.04,30 ,6.7,,1,Blue,-1,36,1
+206,Blood_Rain_Bow,Arrows,14 ,3.0,0,0.04,19 ,18,Rains blood from the sky,1,Orange,-1,1,1,True
+207,The_Bee%27s_Knees,Arrows,23 ,3.0,0,0.04,24 ,8,Wooden arrows turn into a column of bees,1,Orange,-1,2,1
+208,Hellwing_Bow,Arrows,22 ,5.5,0,0.04,13 ,6,Wooden arrows turn into flaming bats,1,Orange,-1,2,1,True
+209,Molten_Fury,Arrows,31 ,2.0,0,0.04,22 ,8,Lights wooden arrows ablaze,1,Orange,-1,54,1
+210,Sharanga,,36 ,2.0,0,0.04,-1,0.0,Transforms any suitable ammo into ,1,Pink,-1,1,-1
+211,Pearlwood_Bow,Arrows,9 ,0.0,0,0.04,27 ,6.6,,1,White,-1,20,1
+212,Marrow,Arrows,50 ,4.7,0,0.09,19 ,11,,1,Pink,-1,54,1
+213,Ice_Bow,Arrows,39 ,4.5,0,0.04,16 ,20,Shoots frost arrows,1,Pink,-1,5,1,True
+214,Daedalus_Stormbow,Arrows,38 ,2.25,0,0.04,19 ,12.5,Shoots arrows from the sky,1,Light Purple,-1,8,1,True
+215,Shadowflame_Bow,Arrows,47 ,4.5,0,0.07,20 ,11,Shoots Shadowflame Arrows,1,Pink,-1,2,1,True
+216,Phantom_Phoenix,Arrows,32 ,2.0,0,0.04,18 ,20,Harnesses the power of undying flames,1,Pink,-1,1,1,True
+217,Pulse_Bow,Arrows,85 ,3.0,0,0.11,20 ,23.25,Shoots a charged arrow,1,Yellow,45,9,1,True
+218,Aerial_Bane,Arrows,55 ,4.5,0,0.07,30 ,22,"Shoots splitting arrows, deals more damage to airborne enemies",1,Yellow,-1,5,1,True
+219,Tsunami,Arrows,53 ,2.0,0,0.04,24 ,10,Shoots 5 arrows at a time,1,Yellow,-1,5,1,True
+220,Eventide,Arrows,50 ,2.0,0,0.04,30 ,10,,1,Yellow,-1,5,1,True
+221,Phantasm,Arrows,50 ,2.0,0,0.04,12 ,20,66% chance to not consume ammo,1,Red,-1,10,1,True
+222,Cobalt_Repeater,Arrows,32 ,1.5,0,0.04,24 ,9,,1,Light Red,-1,1,1,True
+223,Palladium_Repeater,Arrows,34 ,1.75,0,0.04,23 ,9.25,,1,Light Red,-1,1,1,True
+224,Mythril_Repeater,Arrows,36 ,2.0,0,0.04,22 ,9.5,,1,Light Red,-1,1,1,True
+225,Orichalcum_Repeater,Arrows,38 ,2.0,0,0.04,21 ,9.75,,1,Light Red,-1,2,1,True
+226,Adamantite_Repeater,Arrows,40 ,2.5,0,0.04,19 ,10,,1,Light Red,-1,2,1,True
+227,Titanium_Repeater,Arrows,41 ,2.5,0,0.04,18 ,10.5,,1,Light Red,-1,2,1,True
+228,Hallowed_Repeater,Arrows,53 ,2.5,0,0.04,16 ,11,,1,Light Red,-1,4,1,True
+229,Vulcan_Repeater,,56 ,2.5,0,0.04,17 ,15,Transforms any suitable ammo into ,1,Pink,-1,5,-1,True
+230,Chlorophyte_Shotbow,Arrows,34 ,2.75,0,0.04,19 ,11.5,,1,Lime,-1,4,1,True
+231,Stake_Launcher,Stake,75 ,6.5,0,0.14,12 ,9,,1,Yellow,-1,10,1,True
+232,Red_Ryder,Bullets,20 ,3.75,0,0.04,38 ,8,'Don't shoot your eye out!',1,Blue,-1,2,1,True
+233,Flintlock_Pistol,Bullets,10 ,0.0,0,0.04,16 ,5,,1,Blue,5,1,1
+234,Musket,Bullets,31 ,5.25,0,0.11,36 ,9,,1,Blue,-1,1,1,True
+235,The_Undertaker,Bullets,15 ,1.0,0,0.04,23 ,6,,1,Blue,-1,1,1
+236,Sandgun,Sands,30 ,5.0,0,0.04,16 ,24,'This is a good idea!',1,Green,-1,20,1,True
+237,Revolver,Bullets,20 ,4.0,0,0.09,22 ,16,,1,Green,10,2,1
+238,Minishark,Bullets,6 ,0.0,0,0.04,8 ,7,33% chance to not consume ammo,1,Green,35,7,1,True
+239,Boomstick,Bullets,14 ,5.75,0,0.04,40 ,5.35,Fires a spread of bullets,1,Green,-1,2,1
+240,Quad-Barrel_Shotgun,Bullets,17 ,6.5,0,0.04,55 ,7,'When 2 or 3 just doesn't cut it',1,Orange,35,7,1
+241,Handgun,Bullets,17 ,3.0,0,0.04,10 ,10,,1,Green,-1,1,1
+242,Phoenix_Blaster,Bullets,24 ,2.0,0,0.04,11 ,13,,1,Orange,-1,3,1
+243,Clockwork_Assault_Rifle,Bullets,17 ,0.0,0,0.04,12 ,7.75,Three round burst,1,Light Red,-1,3,1,True
+244,Gatligator,Bullets,21 ,1.5,0,0.04,7 ,8,50% chance to not consume ammo,1,Light Red,35,7,1,True
+245,Shotgun,Bullets,24 ,6.5,0,0.04,45 ,7,Fires a spread of bullets,1,Light Red,25,5,1
+246,Onyx_Blaster,Bullets,24 ,6.5,0,0.04,48 ,14,,1,Light Red,-1,5,1
+247,Coin_Gun,Coins,0 ,2.0,0,0.04,8 ,10,Uses coins for ammo,1,Light Purple,-1,6,1,True
+248,Uzi,Bullets,30 ,3.5,0,0.04,9 ,13,"Shoots a powerful, high velocity bullet",1,Lime,-1,7,1,True
+249,Megashark,Bullets,25 ,1.0,0,0.04,7 ,10,50% chance to not consume ammo,1,Pink,-1,7,1,True
+250,Venus_Magnum,Bullets,50 ,5.5,0,0.04,8 ,13.5,"Shoots a powerful, high velocity bullet",1,Lime,-1,5,1
+251,Tactical_Shotgun,Bullets,29 ,7.0,0,0.04,34 ,6,,1,Yellow,-1,8,1,True
+252,Sniper_Rifle,Bullets,185 ,8.0,0,0.29,36 ,16,"Shoots a powerful, high velocity bullet",1,Yellow,-1,8,1
+253,Candy_Corn_Rifle,Candy Corn,44 ,2.0,0,0.1,9 ,10,33% chance to not consume ammo,1,Yellow,-1,10,1,True
+254,Chain_Gun,Bullets,31 ,1.75,0,0.04,4 ,14,50% chance to not consume ammo,1,Yellow,-1,9,1,True
+255,Xenopopper,Bullets,45 ,3.0,0,0.04,21 ,24,,1,Yellow,-1,10,1,True
+256,Vortex_Beater,Bullets,50 ,2.0,0,0.04,20 ,14 ,66% chance to not consume ammo,1,Red,-1,10,1,True
+257,S.D.M.G.,Bullets,85 ,2.5,0,0.14,5 ,12,66% chance to not consume ammo,1,Red,-1,15,1,True
+258,Grenade_Launcher,Rockets,60 ,4.0,0,0.04,20 ,10,,1,Yellow,-1,7,1,True
+259,Proximity_Mine_Launcher,Rockets,80 ,4.0,0,0.04,50 ,12,Mines deal triple damage when armed,1,Yellow,35,7,1,True
+260,Rocket_Launcher,Rockets,45 ,4.0,0,0.04,30 ,5,Does extra damage on a direct hit,1,Yellow,-1,8,1,True
+261,Nail_Gun,Nail,85 ,0.0,0,0.04,15 ,10,,1,Yellow,-1,10,1,True
+262,Stynger,Stynger Bolt,45 ,5.0,0,0.04,22 ,9,Shoots an explosive bolt,1,Lime,-1,7,1,True
+263,Jack_%27O_Lantern_Launcher,Explosive Jack 'O Lantern,65 ,5.0,0,0.1,25 ,7,,1,Yellow,-1,10,1,True
+264,Snowman_Cannon,Rockets,67 ,4.0,0,0.04,15 ,15,Launches homing missiles,1,Yellow,-1,9,1,True
+265,Celebration,Rockets,25 ,4.0,0,0.04,30 ,15,,1,Yellow,80,16,1,True
+266,Electrosphere_Launcher,Rockets,40 ,2.0,0,0.04,12 ,12,,1,Yellow,-1,10,1
+267,Celebration_Mk2,Rockets,40 ,10.0,0,0.04,6 ,17,50% chance to not consume ammo,1,Red,-1,10,1,True
+268,Flare_Gun,Flares,2,0.0,0,0.0,18 ,6,,1,Blue,-1,1,1
+269,Blowpipe,Darts,9 ,3.5,0,0.04,25 ,11,Allows the collection of seeds for ammo,1,White,-1,20,1,True
+270,Blowgun,Darts,27 ,4.0,0,0.04,35 ,13,Allows the collection of seeds for ammo,1,Orange,5,1,1,True
+271,Snowball_Cannon,Snowball,10 ,1.0,0,0.04,19 ,11,,1,Blue,-1,2,1,True
+272,Paintball_Gun,,12 ,1.25,0,0.11,24 ,10,,1,Green,-1,50,1
+273,Harpoon,,25 ,6.0,0,0.04,30 ,11,,1,Green,-1,54,1,True
+274,Egg_Cannon,,16 ,0.5,0,0.04,-1,0.0,"""To kill a goblin, you have to break a few eggs""",1,Green,-1,1,-1
+275,Star_Cannon,Fallen Star,55 ,0.0,0,0.04,12 ,14,Shoots fallen stars,1,Green,-1,10,1,True
+276,Toxikarp,,43 ,3.0,0,0.04,10 ,8.5,Spits toxic bubbles,1,Pink,-1,4,1,True
+277,Dart_Pistol,Darts,28 ,3.5,0,0.04,22 ,13,,1,Pink,-1,8,1,True
+278,Dart_Rifle,Darts,52 ,5.5,0,0.04,38 ,14.5,,1,Pink,-1,8,1,True
+279,Flamethrower,Gel,35 ,0.3,0,0.04,30 ,21,Uses gel for ammo,1,Pink,-1,10,1,True
+280,Piranha_Gun,,38 ,1.0,0,0.04,30 ,14,Latches on to enemies for continuous damage,1,Yellow,-1,20,1
+281,Elf_Melter,Gel,60 ,0.425,0,0.04,30 ,25.5,Uses gel for ammo,1,Yellow,-1,10,1,True
+282,Super_Star_Shooter,Fallen Star,60 ,5.0,0,0.04,18 ,20,"'Sure, Brain, but where are you going to get enough stars for this?'",1,Orange,50,10,1,True
+283,Wand_of_Sparking,,14 ,0.0,0,0.14,26 ,7,Shoots a small spark,1,Blue,-1,10,1,2
+284,Thunder_Zapper,,12 ,2.0,0,0.04,17 ,16,,1,Blue,-1,30,1,5,True
+285,Amethyst_Staff,,14 ,3.25,0,0.04,40 ,6,,1,White,-1,4,1,3
+286,Topaz_Staff,,15 ,3.5,0,0.04,38 ,6.5,,1,White,-1,6,1,4
+287,Sapphire_Staff,,17 ,4.0,0,0.04,34 ,7.5,,1,Blue,-1,20,1,5
+288,Emerald_Staff,,19 ,4.25,0,0.04,32 ,8,,1,Blue,-1,30,1,6,True
+289,Ruby_Staff,,21 ,4.75,0,0.04,28 ,9,,1,Blue,-1,40,1,7,True
+290,Diamond_Staff,,23 ,5.5,0,0.04,26 ,9.5,,1,Green,-1,60,1,8,True
+291,Amber_Staff,,21 ,4.75,0,0.04,28 ,9,,1,Blue,-1,40,1,7,True
+292,Vilethorn,,10 ,1.0,0,0.04,28 ,32,Summons a vile thorn,1,Blue,-1,1,1,10
+293,Magic_Missile,,27 ,7.5,0,0.04,22 ,6,Casts a controllable missile,1,Green,-1,1,1,14 
+294,Aqua_Scepter,,16 ,5.0,0,0.04,16 ,37.5,Sprays out a shower of water,1,Green,-1,1,1,6,True
+295,Flower_of_Fire,,48 ,5.5,0,0.04,16 ,6,Throws balls of fire,1,Orange,-1,2,1,12 
+296,Flamelash,,32 ,6.5,0,0.04,30 ,6,Summons a controllable ball of fire,1,Orange,-1,2,1,21 
+297,Sky_Fracture,,38 ,6.0,0,0.24,12 ,14,,1,Light Red,-1,6,1,17,True
+298,Crystal_Serpent,,40 ,4.4,0,0.04,29 ,13,Shoots an explosive crystal charge,1,Pink,-1,4,1,9,True
+299,Flower_of_Frost,,60 ,6.5,0,0.04,12 ,7,Shoots a ball of frost,1,Pink,-1,5,1,11 
+300,Frost_Staff,,46 ,5.0,0,0.04,16 ,16,Shoots a stream of frost,1,Pink,-1,4,1,12,True
+301,Crystal_Vile_Shard,,25 ,3.0,0,0.04,33 ,32,Summons a massive crystal spike,1,Pink,-1,8,1,13,True
+302,Life_Drain,,35 ,2.5,0,0.04,12 ,10,Drains life from enemies,1,Pink,-1,8,1,10,True
+303,Meteor_Staff,,50 ,4.5,0,0.04,10 ,30,Showers meteors,1,Pink,-1,2,1,13,True
+304,Poison_Staff,,43 ,5.6,0,0.04,36 ,13.5,Shoots a poison fang that pierces multiple enemies,1,Light Purple,-1,4,1,22,True
+305,Rainbow_Rod,,50 ,6.0,0,0.04,25 ,6,Casts a controllable rainbow,1,Pink,-1,4,1,21 
+306,Unholy_Trident,,88 ,6.5,0,0.04,17 ,13,Summons the Devil's trident,1,Light Purple,-1,10,1,19 ,True
+307,Tome_of_Infinite_Wisdom,,32 ,9.0,0,0.04,25 ,22,Gotta wonder who stuck a tome of infinite wisdom on a stick...,1,Pink,-1,1,1,20,True
+308,Venom_Staff,,44 ,7.0,0,0.04,30 ,14,Shoots a venom fang that pierces multiple enemies,1,Lime,-1,7,1,25,True
+309,Nettle_Burst,,35 ,1.0,0,0.04,25 ,32,Ignores 10 points of enemy Defense,1,Lime,-1,4,1,12 ,True
+310,Bat_Scepter,,45 ,3.0,0,0.04,12 ,10,Summons bats to attack your enemies,1,Yellow,-1,10,1,6 ,True
+311,Blizzard_Staff,,58 ,4.5,0,0.04,10 ,20,Showers an area with icicles,1,Yellow,-1,9,1,9,True
+312,Inferno_Fork,,65 ,8.0,0,0.04,30 ,8,Launches a ball of fire that explodes into a raging inferno,1,Yellow,-1,6,1,18
+313,Shadowbeam_Staff,,60 ,3.25,0,0.04,15 ,606,Creates a shadow beam that bounces off walls,1,Yellow,-1,6,1,7 ,True
+314,Spectre_Staff,,65 ,6.0,0,0.04,24 ,12,Summons a lost soul to chase your foes,1,Yellow,-1,6,1,15 ,True
+315,Resonance_Scepter,,70 ,5.0,0,0.04,25 ,10,,1,Pink,-1,10,1,18,True
+316,Razorpine,,48 ,3.25,0,0.04,8 ,24,Shoots razor sharp pine needles,1,Yellow,-1,9,1,5,True
+317,Staff_of_Earth,,125 ,7.5,0,0.24,24 ,24,Summons a powerful boulder,1,Lime,-1,7,1,18 
+318,Betsy%27s_Wrath,,100 ,7.0,0,0.04,20 ,28,Splashes defense reducing miasma!,1,Yellow,-1,5,1,14,True
+319,Gray_Zapinator,,42 ,6.0,0,0.04,37 ,60,'It might be broken',1,Green,17,3,1,16
+320,Space_Gun,,17 ,0.75,0,0.04,17 ,30,,1,Blue,-1,40,1,6 ,True
+321,Bee_Gun,,9 ,0.0,0,0.04,12 ,32,Shoots bees that will chase your enemy,1,Green,-1,2,1,5,True
+322,Roman_candle,,10 ,5.0,0,0.04,-1,0.0,Fire works!,1,Pink,5,1,-1,5
+323,Laser_Rifle,,29 ,2.5,0,0.04,12 ,85,,1,Light Red,-1,3,1,8,True
+324,Orange_Zapinator,,100 ,6.0,0,0.04,37 ,60,'It might be broken',1,Pink,50,10,1,16
+325,Zapinator,,50 ,3.0,0,0.04,7 ,12,,1,Light Red,-1,-1,-1,4
+326,Wasp_Gun,,31 ,0.0,0,0.04,18 ,36,,1,Yellow,-1,10,1,10 ,True
+327,Leaf_Blower,,48 ,4.0,0,0.04,7 ,11,Rapidly shoots razor sharp leaves,1,Lime,-1,6,1,4,True
+328,Rainbow_Gun,,45 ,2.5,0,0.04,40 ,16,Shoots a rainbow that does continuous damage,1,Yellow,-1,20,1,20
+329,Heat_Ray,,80 ,3.0,0,0.04,10 ,"1,515",Shoots a scorching ray of heat,1,Lime,-1,7,1,8,True
+330,Laser_Machinegun,,60 ,2.0,0,0.04,20 ,20,,1,Yellow,-1,10,1,6
+331,Charged_Blaster_Cannon,,100 ,2.0,0,0.04,20 ,28,,1,Yellow,-1,10,1,14
+332,Bubble_Gun,,70 ,3.0,0,0.04,9 ,11,Rapidly shoots forceful bubbles,1,Yellow,-1,5,1,4,True
+333,Water_Bolt,,19 ,5.0,0,0.04,17 ,4.5,Casts a slow moving bolt of water,1,Green,-1,1,1,10,True
+334,Book_of_Skulls,,29 ,3.5,0,0.04,26 ,3.5,Shoots a skull,1,Green,-1,1,1,18 ,True
+335,Demon_Scythe,,35 ,5.0,0,0.04,20 ,0.2,Casts a demon scythe,1,Orange,-1,1,1,14 
+336,Cursed_Flames,,50 ,6.5,0,0.04,15 ,10,Summons unholy fire balls,1,Light Red,-1,4,1,9 ,True
+337,Golden_Shower,,21 ,4.0,0,0.04,18 ,30,Sprays a shower of ichor,1,Light Red,-1,4,1,7,True
+338,Crystal_Storm,,32 ,5.0,0,0.04,7 ,16,Summons rapid fire crystal shards,1,Light Red,-1,4,1,5 ,True
+339,Magnet_Sphere,,48 ,6.0,0,0.04,20 ,1.2,,1,Yellow,-1,10,1,14
+340,Razorblade_Typhoon,,90 ,5.0,0,0.04,40 ,18,Casts fast moving razorwheels,1,Yellow,-1,5,1,16,True
+341,Lunar_Flare,,100 ,4.5,0,0.04,10 ,60,Rains down lunar flares,1,Red,-1,10,1,13,True
+342,Crimson_Rod,,12 ,0.0,0,0.04,24 ,12,Summons a cloud to rain blood on your foes,1,Blue,-1,1,1,10
+343,Ice_Rod,,28 ,2.0,0,0.04,9 ,12,Summons a block of ice,1,Light Red,50,10,1,1,6,True
+344,Clinger_Staff,,43 ,8.0,0,0.04,24 ,15,Summons a wall of cursed flames,1,Pink,-1,8,1,40,True
+345,Nimbus_Rod,,36 ,0.0,0,0.04,22 ,16,Summons a cloud to rain down on your foes,1,Light Purple,-1,3,1,10
+346,Magic_Dagger,,40 ,3.75,0,0.04,8 ,12,A magical returning dagger,1,Light Red,-1,5,1,6
+347,Medusa_Head,,40 ,2.0,0,0.04,20 ,1,,1,Light Red,-1,4,1,15,True
+348,Spirit_Flame,,85 ,5.0,0,0.04,22 ,3,,1,Light Red,-1,1,1,14 ,True
+349,Shadowflame_Hex_Doll,,40 ,3.75,0,0.07,21 ,27,Summons Shadowflame tentacles to strike your foes,1,Pink,-1,2,1,6,True
+350,Blood_Thorn,,34 ,1.0,0,0.04,33 ,32,Summons blood thorns from the ground,1,Light Red,-1,4,1,20,True
+351,Magical_Harp,,42 ,0.25,0,0.04,12 ,4.5,,1,Pink,-1,4,1,5 ,True
+352,Toxic_Flask,,46 ,4.0,0,0.04,28 ,9,,1,Yellow,-1,10,1,30
+353,Nightglow,,50 ,2.5,0,0.04,36 ,34,,1,Yellow,-1,5,1,23,True
+354,Stellar_Tune,,85 ,0.0,0,0.24,12 ,3,'These chords are out of this world',1,Pink,-1,10,1,12,True
+355,Nebula_Arcanum,,70 ,5.0,0,0.04,30 ,7,'Conjure masses of astral energy to chase down your foes',1,Red,-1,10,1,30,True
+356,Nebula_Blaze,,130 ,0.0,0,0.04,12 ,18,'From Orion's belt to the palm of your hand',1,Red,-1,10,1,12 ,True
+357,Last_Prism,,100 ,0.0,0,0.04,10 ,30,'Fire a lifeform disintegration rainbow',1,Red,-1,10,1,12
+358,Finch_Staff,,7 ,4.0,0,0.0,36 ,10,Summons a baby finch to fight for you,1,Blue,-1,1,1,10
+359,Slime_Staff,,8 ,2.0,0,0.0,28 ,10,Summons a baby slime to fight for you,1,Light Red,-1,2,1,10
+360,Flinx_Staff,,8 ,2.0,0,0.0,36 ,10,Summons a snow flinx to fight for you,1,Orange,-1,50,1,5
+361,Hornet_Staff,,12 ,2.0,0,0.0,22 ,10,Summons a hornet to fight for you,1,Orange,-1,20,1,10
+362,Vampire_Frog_Staff,,11 ,5.0,0,0.0,36 ,10,Summons a vampire frog to fight for you,1,Orange,-1,1,1,10
+363,Imp_Staff,,17 ,2.0,0,0.0,36 ,10,Summons an imp to fight for you,1,Orange,-1,20,1,10
+364,Blade_Staff,,6 ,0.0,0,0.0,36 ,10,Summons an Enchanted Dagger to fight for you,1,Pink,-1,1,1,10
+365,Spider_Staff,,26 ,3.0,0,0.0,36 ,10,Summons spiders to fight for you,1,Light Red,-1,1,1,10
+366,Pirate_Staff,,40 ,6.0,0,0.0,36 ,10,Summons pirates to fight for you,1,Pink,-1,1,1,10
+367,Sanguine_Staff,,35 ,8.0,0,0.0,36 ,10,Summons a sanguine bat to fight for you,1,Light Red,-1,5,1,10
+368,Optic_Staff,,30 ,2.0,0,0.0,36 ,30,Summons twins to fight for you,1,Pink,-1,2,1,10
+369,Deadly_Sphere_Staff,,50 ,2.0,0,0.0,36 ,10,Summons a deadly sphere to fight for you,1,Yellow,-1,10,1,10
+370,Pygmy_Staff,,34 ,3.0,0,0.0,28 ,10,Summons a Pygmy to fight for you,1,Lime,-1,7,1,10
+371,Raven_Staff,,55 ,3.0,0,0.0,28 ,10,Summons a raven to fight for you,1,Yellow,-1,10,1,10
+372,Desert_Tiger_Staff,,41 ,4.0,0,0.0,36 ,40,Summons a white tiger to fight for you,1,Yellow,-1,20,1,10
+373,Tempest_Staff,,50 ,2.0,0,0.0,36 ,10,Summons sharknados to fight for you,1,Yellow,-1,5,1,10
+374,Terraprisma,,90 ,4.0,0,0.0,36 ,10,Summons an Enchanted Sword to fight for you,1,Pink,-1,20,1,10
+375,Xeno_Staff,,36 ,2.0,0,0.0,36 ,10,Summons a UFO to fight for you,1,Yellow,-1,10,1,10
+376,Stardust_Cell_Staff,,60 ,2.0,0,0.0,36 ,10,Summons a stardust cell to fight for you,1,Red,-1,10,1,10
+377,Stardust_Dragon_Staff,,40 ,2.0,0,0.0,36 ,10,Summons a stardust dragon to fight for you,1,Red,-1,10,1,10
+378,Lightning_Aura_Rod,,-1 ,0.0,0,0.0,30 ,1,An aura that repeatedly zaps enemies that go inside,1,White,-1,-1,-1
+379,Flameburst_Rod,,-1 ,0.0,0,0.0,29 ,1,An average speed tower that shoots exploding fireballs,1,White,-1,-1,-1
+380,Explosive_Trap_Rod,,-1 ,0.0,0,0.0,30 ,1,Summons a sentry,1,White,-1,-1,-1
+381,Ballista_Rod,,-1 ,0.0,0,0.0,29 ,1,A slow but high damage tower that shoots piercing bolts,1,White,-1,-1,-1
+382,Queen_Spider_Staff,,26 ,7.5,0,0.0,30 ,14,Summons a sentry,1,Light Red,-1,5,1,10
+383,Lightning_Aura_Cane,,-1 ,0.0,0,0.0,30 ,1,An aura that repeatedly zaps enemies that go inside,1,White,-1,-1,-1
+384,Flameburst_Cane,,-1 ,0.0,0,0.0,29 ,1,An average speed tower that shoots exploding fireballs,1,White,-1,-1,-1
+385,Explosive_Trap_Cane,,-1 ,0.0,0,0.0,30 ,1,Summons a sentry,1,White,-1,-1,-1
+386,Ballista_Cane,,-1 ,0.0,0,0.0,29 ,1,A slow but high damage tower that shoots piercing bolts,1,White,-1,-1,-1
+387,Staff_of_the_Frost_Hydra,,100 ,7.5,0,0.0,30 ,14,Summons a sentry,1,Yellow,-1,20,1,20
+388,Lightning_Aura_Staff,,-1 ,0.0,0,0.0,30 ,1,An aura that repeatedly zaps enemies that go inside,1,White,-1,-1,-1
+389,Flameburst_Staff,,-1 ,0.0,0,0.0,29 ,1,An average speed tower that shoots exploding fireballs,1,White,-1,-1,-1
+390,Explosive_Trap_Staff,,-1 ,0.0,0,0.0,30 ,1,Summons a sentry,1,White,-1,-1,-1
+391,Ballista_Staff,,-1 ,0.0,0,0.0,29 ,1,A slow but high damage tower that shoots piercing bolts,1,White,-1,-1,-1
+392,Lunar_Portal_Staff,,50 ,7.5,0,0.0,30 ,14,Summons a sentry,1,Red,-1,10,1,10
+393,Rainbow_Crystal_Staff,,130 ,7.5,0,0.0,30 ,14,Summons a sentry,1,Red,-1,10,1,10
+394,Leather_Whip,,14 ,0.5,0,0.0,30 ,8,4 summon tag damage,1,Blue,15,3,1
+395,Snapthorn,,18 ,1.0,0,0.0,30 ,8,6 summon tag damage,1,Orange,-1,1,1
+396,Spinal_Tap,,29 ,2.0,0,0.0,30 ,10,7 summon tag damage,1,Green,-1,1,1
+397,Firecracker,,40 ,2.0,0,0.0,30 ,8,Your summons will focus struck enemies,1,Light Red,-1,3,1
+398,Cool_Whip,,50 ,1.5,0,0.0,30 ,8,Your summons will focus struck enemies,1,Light Red,-1,4,1
+399,Durendal,,55 ,2.0,0,0.0,30 ,12,9 summon tag damage,1,Pink,-1,4,1
+400,Dark_Harvest,,100 ,3.0,0,0.0,30 ,12,Your summons will focus struck enemies,1,Yellow,-1,10,1
+401,Morning_Star,,180 ,11.0,0,0.0,45 ,8,5 summon tag damage,1,Yellow,-1,6,1
+402,Kaleidoscope,,180 ,4.0,0,0.0,30 ,12,20 summon tag damage,1,Yellow,-1,5,1
+403,Shuriken,,10 ,0.0,1,0.04,15 ,9,,999,White,15,3,99
+404,Throwing_Knife,,12 ,2.0,1,0.04,15 ,10,,999,White,50,10,99
+405,Poisoned_Knife,,14 ,2.4,1,0.08,15 ,12,,999,White,-1,12,99,True
+406,Snowball,,8 ,5.75,0,0.0,19 ,7,,999,White,-1,-1,99
+407,Ale_Tosser,Ale,20 ,7.0,0,0.04,40 ,6.5,,1,Blue,-1,1,1
+408,Spiky_Ball,,15 ,1.0,1,0.04,15 ,5,,999,White,80,16,99
+409,Bone,,20 ,2.3,1,0.04,12 ,8,,999,White,-1,10,99
+410,Bone_Glove,,25,0.0,0,0.0,-1,0.0,Shoots crossbones at enemies while you are attacking,1,Rainbow,-1,2,1
+411,Rotten_Egg,,13 ,6.5,1,0.04,19 ,9,Best used for pranking townsfolk,999,White,-1,-1,99
+412,Star_Anise,,14 ,0.0,1,0.04,15 ,12,,999,White,-1,5,99
+413,Molotov_Cocktail,,23 ,7.0,1,0.04,40 ,6.5,A small explosion that puts enemies on fire,99,Blue,-1,1,99
+414,Frost_Daggerfish,,17 ,3.5,1,0.04,13 ,12.5,,999,Blue,-1,16,99
+415,Javelin,,17 ,4.75,1,0.04,24 ,11.5,,999,White,-1,5,99
+416,Bone_Javelin,,20 ,5.0,1,0.04,25 ,10,,999,Blue,-1,10,99,True
+417,Bone_Throwing_Knife,,14 ,1.5,1,0.04,14 ,10,,999,Blue,-1,10,99,True
+418,Grenade,,60 ,8.0,1,0.04,45 ,5.5,A small explosion that will not destroy tiles,99,White,75,15,99
+419,Sticky_Grenade,,60 ,8.0,1,0.04,45 ,5.5,A small explosion that will not destroy tiles,99,White,-1,15,99
+420,Bouncy_Grenade,,65 ,8.0,1,0.04,40 ,6.5,A small explosion that will not destroy tiles,99,White,-1,20,99
+421,Beenade,,12 ,1.0,1,0.04,15 ,6,Explodes into a swarm of bees,999,White,-1,40,99
+422,Happy_Grenade,,30 ,6.0,1,0.04,20 ,6,A small explosion that will not destroy tiles,99,Green,2,50,99

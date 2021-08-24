@@ -41,7 +41,7 @@ Warning: This will install node, npm, and the dependencies needed to run the pro
 1. To get started, set up a MySQL server locally using the "weapons" CSV file, make sure it matches the defined names in
 the application properties or update them appropriately.
 2. Clone the repo and generate the resources with: ```./mvnw generate-resources```. If this throws an 
-error, try making an executable of the maven wrapper first: ```chmod -x ./mvnw```.
+error, try making an executable of the maven wrapper first: ```chmod +x ./mvnw```.
 3. That's it! Run the application with: ```./mvnw spring-boot:run```
 
 Something else you can do is build the frontend continuously by running this command:

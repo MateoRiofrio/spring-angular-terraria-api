@@ -19,7 +19,7 @@ export class SearchService {
     }
 
     public findStartsWith(start: string): Observable<Weapon[]> {
-        let request_url = this.itemUrl + "item_name?like=" + start
+        let request_url = this.itemUrl + "weapons/item_name?like=" + start
         return this.http.get<Weapon[]>(request_url)
     }
 }

@@ -1,4 +1,4 @@
-import {Component, Input, OnInit} from '@angular/core';
+import {Component, OnInit, Output, EventEmitter} from '@angular/core';
 import {Weapon} from "../../model/items/weapon/Weapon";
 import {SearchService} from "../search.service";
 import {Router} from "@angular/router";
@@ -11,8 +11,9 @@ import {Router} from "@angular/router";
 })
 export class WidgetSearchBarComponent implements OnInit{
 
-    public searchResults: Weapon[] = []
+    searchResults: Weapon[] = []
     showList: boolean = false
+    @Output() chosenWeapon = new EventEmitter<Weapon>()
 
     // inject http search service
     constructor(private router: Router, private searchService: SearchService) {
@@ -28,6 +29,13 @@ export class WidgetSearchBarComponent implements OnInit{
         // source: https://stackoverflow.com/questions/2116558/fastest-method-to-replace-all-instances-of-a-character-in-a-string/2116614
         return name.replace(/_/g, " ")
     }
+
+    setWeaponById(id: number) {
+        this.showList = false
+        let weapon = this.searchResults.find(weapon => weapon.id === id)
+        this.chosenWeapon.emit(weapon)
+    }
+
     ngOnInit() {
         // show all weapons by default
         this.searchService.findAll().subscribe(data => {

@@ -1,0 +1,4 @@
+<app-widget-search-bar (chosenWeapon)="setChosenWeapon($event)"></app-widget-search-bar>
+<div *ngIf="chosenWeapon">
+    <app-weapon-details [weapon]="chosenWeapon"></app-weapon-details>
+</div>

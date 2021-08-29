@@ -38,11 +38,14 @@ Sletteberg. Below you will see the steps to set up this project on your computer
 
 Warning: This will install node, npm, and the dependencies needed to run the project. You can see those under 
 `package.json` and `pom.xml` for spring.
-1. To get started, set up a MySQL server locally using the "weapons" CSV file, make sure it matches the defined names in
+1. To get started, set up a MySQL server locally using the "weapons" CSV file, make sure to match the username and password on
 the application properties or update them appropriately.
 2. Clone the repo and generate the resources with: ```./mvnw generate-resources```. If this throws an 
 error, try making an executable of the maven wrapper first: ```chmod +x ./mvnw```.
 3. That's it! Run the application with: ```./mvnw spring-boot:run```
+
+### Demo:
+https://user-images.githubusercontent.com/8117699/131256434-87ce9483-d2ab-41c5-a0eb-cb69b8be6b8b.mov
 
 Something else you can do is build the frontend continuously by running this command:
 ```ng build --watch```. You may need to tweak your IDE, but it works fine on IntelliJ and the changes get pushed to

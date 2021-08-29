@@ -29,7 +29,10 @@ GET /api/v1/weapons/item_name?like=example
 
 There are more things to come, at the moment there are only weapons on the CSV file and Cloud database. But in the future,
 I hope to add all other types such as tools, accessories, armor, etc. 
-Finally, of course you may use the application by running `./mvnw spring-boot:run` and going to the localhost port it is hosted on.
+Also, you may use the application by running `./mvnw spring-boot:run` and going to the localhost port it is hosted on.
+
+### Demo:
+https://user-images.githubusercontent.com/8117699/131256434-87ce9483-d2ab-41c5-a0eb-cb69b8be6b8b.mov
 
 ## Set-up
 The awesome part about this project is `npm` gets installed as part of our build. So both Angular and the Spring Boot 
@@ -44,8 +47,6 @@ the application properties or update them appropriately.
 error, try making an executable of the maven wrapper first: ```chmod +x ./mvnw```.
 3. That's it! Run the application with: ```./mvnw spring-boot:run```
 
-### Demo:
-https://user-images.githubusercontent.com/8117699/131256434-87ce9483-d2ab-41c5-a0eb-cb69b8be6b8b.mov
 
 Something else you can do is build the frontend continuously by running this command:
 ```ng build --watch```. You may need to tweak your IDE, but it works fine on IntelliJ and the changes get pushed to

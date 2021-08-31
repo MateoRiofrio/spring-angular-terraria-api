@@ -6,6 +6,9 @@ and *Angular* to build the frontend. Both tools are very popular and together
 form a powerful stack that allows for scalability and flexibility. In this case, the main role of the backend is to provide
 a way of interacting with JavaScript through HTTP and JSON. Angular and Spring are built as a single application, so npm
 is installed as part of the build. If you would like to run this project on your machine check out the set-up section!
+
+This project is intended to be ran with a local mysql server but with a few changes can also work with a cloud platform such as Google's! Check out the branch 'cloud-version' to see how to implement that way. 
+
 ## Usage
 The API is handled by Spring and here are some requests you can do:
 

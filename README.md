@@ -7,7 +7,7 @@ form a powerful stack that allows for scalability and flexibility. In this case,
 a way of interacting with JavaScript through HTTP and JSON. Angular and Spring are built as a single application, so npm
 is installed as part of the build. If you would like to run this project on your machine check out the set-up section!
 
-This project is intended to be ran with a local MySQL server but with a few changes it can also work with a cloud platform such as Google's cloud SQL service! Check out the branch 'cloud-version' to see how to implement that way. 
+This project is intended to be ran with a local MySQL server but with a few changes it can also work with a cloud platform such as Google's cloud SQL database. Check out the branch 'cloud-version'! The only changes happen in `pom.xml` for the dependencies and `application.properties` for the connection settings. 
 
 ## Usage
 The API is handled by Spring and here are some requests you can do:
